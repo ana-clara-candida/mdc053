@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T17:08:24.672Z" agent="5.0 (X11; Ubuntu)" etag="ujNrdL4606j6pQunjQ5X" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T17:15:43.607Z" agent="5.0 (X11; Ubuntu)" etag="MK6xgk0tqEBCcpTp7lvP" version="20.6.0" type="github">
   <diagram id="mybEqOBmIchwgZUNAugR" name="Página-1">
     <mxGraphModel dx="1535" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ptBmaQafb3YnIxaazwM1-3" value="area VARCHAR(128)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ptBmaQafb3YnIxaazwM1-1">
+        <mxCell id="ptBmaQafb3YnIxaazwM1-3" value="area VARCHAR(127)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ptBmaQafb3YnIxaazwM1-1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
