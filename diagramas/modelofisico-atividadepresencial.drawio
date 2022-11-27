@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T00:40:12.827Z" agent="5.0 (X11; Ubuntu)" etag="GiX96Lj-oj0TFsfECaxm" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T00:43:14.851Z" agent="5.0 (X11; Ubuntu)" etag="iEeg4JvkPDeIoJe9cPEv" version="20.6.0" type="github">
   <diagram id="mybEqOBmIchwgZUNAugR" name="Página-1">
     <mxGraphModel dx="1535" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,6 +579,9 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ptBmaQafb3YnIxaazwM1-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="ptBmaQafb3YnIxaazwM1-95" source="ptBmaQafb3YnIxaazwM1-110" target="ptBmaQafb3YnIxaazwM1-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ptBmaQafb3YnIxaazwM1-110" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ptBmaQafb3YnIxaazwM1-95">
           <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
@@ -674,6 +677,12 @@
               <mxPoint x="400" y="615" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ptBmaQafb3YnIxaazwM1-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ptBmaQafb3YnIxaazwM1-96" target="ptBmaQafb3YnIxaazwM1-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ptBmaQafb3YnIxaazwM1-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ptBmaQafb3YnIxaazwM1-96" target="ptBmaQafb3YnIxaazwM1-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
